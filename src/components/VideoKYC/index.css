@@ -1,0 +1,51 @@
+
+.video-kyc{
+    display:flex;
+    flex-direction:column;
+    padding:20px;
+
+    justify-content: center;
+    align-items:center;
+
+    background-color: blueviolet;
+
+    background-size:cover;
+    height:100vh;
+}
+.start{
+    font-family:"Roboto";
+    font-size:15px;
+    background-color:aquamarine;
+    width:200px;
+    height:30px;
+    border-radius:10px;
+}
+.start2{
+    font-family:"Roboto";
+    font-size:15px;
+    background-color:gold;
+    
+    color:#ffffff;
+    padding:10px;
+    border-radius:10px;
+}
+.skip{
+    color:#ffffff;
+    font-size:25px;
+    font-family:"Roboto";
+
+}
+.head{
+    color:#ffffff;
+    font-size:30px;
+    font-family:"Roboto";
+    font-weight:500;
+
+}
+.flex-down{
+    display:flex;
+    flex-direction:column;
+    padding:10px;
+    
+}
+
